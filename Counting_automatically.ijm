@@ -43,10 +43,6 @@
 		   run("Convert to Mask");
            run("Fill Holes");
            run("Watershed");
-           run("Analyze Particles...", "size=1500-Infinity summarize");
-           //run("Close");  
-           //name=getTitle;
-           //IJ.renameResults(name); 
-           //setResult("name", rowNumber, value) 
+           run("Analyze Particles...", "size=1500-Infinity summarize")
        }
   }
