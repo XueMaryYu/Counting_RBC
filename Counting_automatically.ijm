@@ -46,3 +46,4 @@
            run("Analyze Particles...", "size=1500-Infinity summarize")
        }
   }
+saveAs("Results", "C:/Users/Mary Xue Yu/Desktop/test/Summary.xls");
